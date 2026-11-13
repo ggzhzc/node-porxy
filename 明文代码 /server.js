@@ -9,7 +9,7 @@ const crypto = require('crypto');
 const { WebSocketServer } = require('ws');
 
 // ============ 环境变量 ============
-const UUID = process.env.UUID || 'dacf8a92-401e-4061-84d9-14e0ef03738f'; // 节点UUID
+const UUID = process.env.UUID || 'a552c0ed-df68-11f1-881c-29ce776070aa'; // 节点UUID
 const DOMAIN = process.env.DOMAIN || '';                                 // 项目域名,不包含https://前缀
 const SUB_PATH = process.env.SUB_PATH || 'sub';                          // 节点订阅token
 const NAME = process.env.NAME || '';                                     // 节点名称
