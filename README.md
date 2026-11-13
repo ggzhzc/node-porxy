@@ -1,6 +1,4 @@
-# vabc
-
-基于 Node.js 的轻量 WebSocket 代理，支持 VLESS / Trojan / Shadowsocks 三种协议，附带订阅页和静态首页，可直接部署在支持 Node.js 的平台上。
+# 基于 Node.js 的轻量 WebSocket 代理，支持 VLESS / Trojan / Shadowsocks 三种协议，附带订阅页和静态首页，可直接部署在支持 Node.js 的平台上。
 
 ## 文件结构
 
